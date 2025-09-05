@@ -7,6 +7,10 @@ management easier and type-safe using generics.
 
 ## Features
 
+- **Containers** (`containers`)
+  - Stack (LIFO)
+  - Queue (FIFO)
+  - Set
 - **Math Utilities** (`mathx`)
   - Max, Min, Clamp, Abs
   - Sum, Product
@@ -16,10 +20,10 @@ management easier and type-safe using generics.
   - Reverse slices
   - Map and Filter functions
   - Contains check
-- **Containers** (`containers`)
-  - Stack (LIFO)
-  - Queue (FIFO)
-  - Set
+- **String Utilities** (`stringx`)
+  - Rune-safe reverse
+  - PadLeft/PadRight
+  - Case-insensitive equals
 - **General Utilities** (`util`)
   - Ternop (ternary operator)
   - Prt (shortcut for printing)
