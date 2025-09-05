@@ -19,6 +19,7 @@ management easier and type-safe using generics.
 - **Containers** (`containers`)
   - Stack (LIFO)
   - Queue (FIFO)
+  - Set
 - **General Utilities** (`util`)
   - Ternop (ternary operator)
   - Prt (shortcut for printing)
